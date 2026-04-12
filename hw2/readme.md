@@ -6,19 +6,7 @@
 
 默认数据目录为 `./data`（若本地不存在会自动下载 CIFAR-10 或 CIFAR-100）。
 
-## 环境准备
 
-在 `hw2` 目录下执行命令：
-
-```bash
-cd /home/chugaev/ANN/hw2
-```
-
-如需使用虚拟环境（可选）：
-
-```bash
-source ../env1/bin/activate
-```
 
 ## DenseNet
 
