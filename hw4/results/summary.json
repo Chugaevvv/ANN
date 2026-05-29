@@ -1,0 +1,13 @@
+{
+  "Vocab": "1049",
+  "GPT Params": "944000",
+  "LSTM Params": "1322265",
+  "Random PPL": "1049",
+  "GPT Test PPL": "24.1",
+  "LSTM Test PPL": "26.1",
+  "Test Acc": "0.0%",
+  "Train QA": "173",
+  "Test QA": "212",
+  "Train Chars": "25313",
+  "Train Windows": "528"
+}
